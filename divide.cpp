@@ -6,8 +6,8 @@ int main(){
 
   int div = a/b;
 
-  cout<<div;
-  
+  cout<<"this is divide:"<<div;
+
 
 
   return 0;
